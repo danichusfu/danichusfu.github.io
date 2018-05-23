@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Head on Dani Chu</title>
+    <link>/tags/head/</link>
+    <description>Recent content in Head on Dani Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 May 2018 20:22:22 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/head/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
+      <link>/coaching/best/</link>
+      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
+      
+      <guid>/coaching/best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
+      <link>/coaching/tc-north/</link>
+      <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
+      
+      <guid>/coaching/tc-north/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

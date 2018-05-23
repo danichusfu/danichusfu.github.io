@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 May 2018 20:22:22 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Assistant</title>
+      <link>/tags/assistant/</link>
+      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
+      
+      <guid>/tags/assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head</title>
+      <link>/tags/head/</link>
+      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
+      
+      <guid>/tags/head/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

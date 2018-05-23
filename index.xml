@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Improving Foul Management in the NBA</title>
+      <link>/talk/improving-foul-management/</link>
+      <pubDate>Tue, 22 May 2018 21:22:20 -0700</pubDate>
+      
+      <guid>/talk/improving-foul-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racing Profiles in World Championship 2000m Rowing Explored Through K-Means Clustering</title>
+      <link>/talk/racing-profiles/</link>
+      <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
+      
+      <guid>/talk/racing-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Kelly Criteria</title>
+      <link>/talk/modified-kelly-criteria/</link>
+      <pubDate>Tue, 22 May 2018 21:21:56 -0700</pubDate>
+      
+      <guid>/talk/modified-kelly-criteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
       <link>/coaching/best/</link>
       <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 22 May 2017 19:52:23 -0700</pubDate>
       
       <guid>/competitions/mojio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tri-City Youth Basketball Association Seasonal Camps</title>
-      <link>/coaching/tcyba/</link>
-      <pubDate>Thu, 22 Dec 2016 20:22:28 -0700</pubDate>
-      
-      <guid>/coaching/tcyba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tri-City Youth Basketball Association Seasonal Camps</title>
-      <link>/project/tcyba/</link>
-      <pubDate>Thu, 22 Dec 2016 20:22:28 -0700</pubDate>
-      
-      <guid>/project/tcyba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Canada Basketball – Centre for Performance Camp</title>
-      <link>/coaching/cp/</link>
-      <pubDate>Tue, 22 Nov 2016 20:22:18 -0700</pubDate>
-      
-      <guid>/coaching/cp/</guid>
       <description></description>
     </item>
     

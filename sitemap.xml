@@ -23,8 +23,53 @@
     
     <url>
     
+      <loc>/competitions/sac-kings/</loc>
+      <lastmod>2018-04-30T23:59:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/modified-kelly-criteria/</loc>
       <lastmod>2018-02-01T12:44:24-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/competitions/badm/</loc>
+      <lastmod>2017-11-18T19:37:12-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/competitions/hads/</loc>
+      <lastmod>2017-11-04T19:50:39-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/competitions/nbahack17/</loc>
+      <lastmod>2017-09-22T19:52:06-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/competitions/mojio/</loc>
+      <lastmod>2017-05-22T19:52:23-07:00</lastmod>
     </url>
     
   
@@ -59,6 +104,15 @@
     
     <url>
     
+      <loc>/competitions/nbahack16/</loc>
+      <lastmod>2016-09-22T19:52:10-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-02-01T12:44:24-07:00</lastmod>
       <priority>0</priority>
@@ -70,6 +124,16 @@
     <url>
     
       <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/competitions/</loc>
+      <lastmod>2018-04-30T23:59:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

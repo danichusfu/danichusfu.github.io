@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dani Chu</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Dani Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 May 2018 20:22:22 -0700</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
+      <link>/project/best/</link>
+      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
+      
+      <guid>/project/best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
+      <link>/project/tc-north/</link>
+      <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
+      
+      <guid>/project/tc-north/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-City Youth Basketball Association Seasonal Camps</title>
+      <link>/project/tcyba/</link>
+      <pubDate>Thu, 22 Dec 2016 20:22:28 -0700</pubDate>
+      
+      <guid>/project/tcyba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada Basketball – Centre for Performance Camp</title>
+      <link>/project/cp/</link>
+      <pubDate>Tue, 22 Nov 2016 20:22:18 -0700</pubDate>
+      
+      <guid>/project/cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Olympics BC - Coquitlam Basketball</title>
+      <link>/project/coq-sn/</link>
+      <pubDate>Tue, 22 Dec 2015 20:22:41 -0700</pubDate>
+      
+      <guid>/project/coq-sn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basketball BC U15 Fraser Valley North Regional Team</title>
+      <link>/project/fvn/</link>
+      <pubDate>Fri, 22 May 2015 20:22:33 -0700</pubDate>
+      
+      <guid>/project/fvn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

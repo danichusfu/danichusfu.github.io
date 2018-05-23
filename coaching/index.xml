@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coachings on Dani Chu</title>
+    <link>/coaching/</link>
+    <description>Recent content in Coachings on Dani Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 May 2018 20:22:22 -0700</lastBuildDate>
+    
+	<atom:link href="/coaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
+      <link>/coaching/best/</link>
+      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
+      
+      <guid>/coaching/best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
+      <link>/coaching/tc-north/</link>
+      <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
+      
+      <guid>/coaching/tc-north/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tri-City Youth Basketball Association Seasonal Camps</title>
+      <link>/coaching/tcyba/</link>
+      <pubDate>Thu, 22 Dec 2016 20:22:28 -0700</pubDate>
+      
+      <guid>/coaching/tcyba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada Basketball – Centre for Performance Camp</title>
+      <link>/coaching/cp/</link>
+      <pubDate>Tue, 22 Nov 2016 20:22:18 -0700</pubDate>
+      
+      <guid>/coaching/cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Olympics BC - Coquitlam Basketball</title>
+      <link>/coaching/coq-sn/</link>
+      <pubDate>Tue, 22 Dec 2015 20:22:41 -0700</pubDate>
+      
+      <guid>/coaching/coq-sn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basketball BC U15 Fraser Valley North Regional Team</title>
+      <link>/coaching/fvn/</link>
+      <pubDate>Fri, 22 May 2015 20:22:33 -0700</pubDate>
+      
+      <guid>/coaching/fvn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

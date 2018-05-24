@@ -7,62 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 22 May 2018 20:22:22 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 May 2018 22:28:50 -0700</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
-      <link>/project/best/</link>
-      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
+      <title>Best Buy Canadian Headquarters</title>
+      <link>/project/bby/</link>
+      <pubDate>Wed, 23 May 2018 22:28:50 -0700</pubDate>
       
-      <guid>/project/best/</guid>
+      <guid>/project/bby/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
-      <link>/project/tc-north/</link>
-      <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
+      <title>UBC Men&#39;s Basketball</title>
+      <link>/project/ubcbball/</link>
+      <pubDate>Mon, 23 Apr 2018 22:30:58 -0700</pubDate>
       
-      <guid>/project/tc-north/</guid>
+      <guid>/project/ubcbball/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tri-City Youth Basketball Association Seasonal Camps</title>
-      <link>/project/tcyba/</link>
-      <pubDate>Thu, 22 Dec 2016 20:22:28 -0700</pubDate>
+      <title>Canadian Sport Institute Pacific</title>
+      <link>/project/csip/</link>
+      <pubDate>Mon, 23 Apr 2018 22:28:55 -0700</pubDate>
       
-      <guid>/project/tcyba/</guid>
+      <guid>/project/csip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Canada Basketball – Centre for Performance Camp</title>
-      <link>/project/cp/</link>
-      <pubDate>Tue, 22 Nov 2016 20:22:18 -0700</pubDate>
+      <title>Terry Fox Junior Boys Basketball</title>
+      <link>/project/terryfox/</link>
+      <pubDate>Sat, 23 Sep 2017 22:29:10 -0700</pubDate>
       
-      <guid>/project/cp/</guid>
+      <guid>/project/terryfox/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Special Olympics BC - Coquitlam Basketball</title>
-      <link>/project/coq-sn/</link>
-      <pubDate>Tue, 22 Dec 2015 20:22:41 -0700</pubDate>
+      <title>Canada Senior Men&#39;s Basketball</title>
+      <link>/project/canbball/</link>
+      <pubDate>Thu, 24 Aug 2017 22:29:02 -0700</pubDate>
       
-      <guid>/project/coq-sn/</guid>
+      <guid>/project/canbball/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Basketball BC U15 Fraser Valley North Regional Team</title>
-      <link>/project/fvn/</link>
-      <pubDate>Fri, 22 May 2015 20:22:33 -0700</pubDate>
+      <title>Fraser Health Authority</title>
+      <link>/project/fh/</link>
+      <pubDate>Wed, 23 Aug 2017 22:29:25 -0700</pubDate>
       
-      <guid>/project/fvn/</guid>
+      <guid>/project/fh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSERC USRA</title>
+      <link>/project/nserc/</link>
+      <pubDate>Wed, 23 Aug 2017 22:29:22 -0700</pubDate>
+      
+      <guid>/project/nserc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver Whitecaps FC</title>
+      <link>/project/vwfc/</link>
+      <pubDate>Thu, 23 Mar 2017 22:29:40 -0700</pubDate>
+      
+      <guid>/project/vwfc/</guid>
       <description></description>
     </item>
     

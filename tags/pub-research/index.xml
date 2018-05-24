@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pub-research on Dani Chu</title>
+    <link>/tags/pub-research/</link>
+    <description>Recent content in Pub-research on Dani Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 22:28:55 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/pub-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Canadian Sport Institute Pacific</title>
+      <link>/project/csip/</link>
+      <pubDate>Mon, 23 Apr 2018 22:28:55 -0700</pubDate>
+      
+      <guid>/project/csip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSERC USRA</title>
+      <link>/project/nserc/</link>
+      <pubDate>Wed, 23 Aug 2017 22:29:22 -0700</pubDate>
+      
+      <guid>/project/nserc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

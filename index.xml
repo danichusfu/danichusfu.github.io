@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Best Buy Canadian Headquarters</title>
+      <link>/project/bby/</link>
+      <pubDate>Wed, 23 May 2018 22:28:50 -0700</pubDate>
+      
+      <guid>/project/bby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving Foul Management in the NBA</title>
       <link>/talk/improving-foul-management/</link>
       <pubDate>Tue, 22 May 2018 21:22:20 -0700</pubDate>
@@ -47,29 +56,11 @@
     </item>
     
     <item>
-      <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
-      <link>/project/best/</link>
-      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
-      
-      <guid>/project/best/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
       <link>/coaching/tc-north/</link>
       <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
       
       <guid>/coaching/tc-north/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
-      <link>/project/tc-north/</link>
-      <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
-      
-      <guid>/project/tc-north/</guid>
       <description></description>
     </item>
     
@@ -101,6 +92,24 @@
     </item>
     
     <item>
+      <title>UBC Men&#39;s Basketball</title>
+      <link>/project/ubcbball/</link>
+      <pubDate>Mon, 23 Apr 2018 22:30:58 -0700</pubDate>
+      
+      <guid>/project/ubcbball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canadian Sport Institute Pacific</title>
+      <link>/project/csip/</link>
+      <pubDate>Mon, 23 Apr 2018 22:28:55 -0700</pubDate>
+      
+      <guid>/project/csip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modified Kelly Criteria</title>
       <link>/publication/modified-kelly-criteria/</link>
       <pubDate>Thu, 01 Feb 2018 12:44:24 -0700</pubDate>
@@ -128,20 +137,11 @@
     </item>
     
     <item>
-      <title>NBA Hackathon 2017</title>
-      <link>/competitions/nbahack17/</link>
-      <pubDate>Fri, 22 Sep 2017 19:52:06 -0700</pubDate>
+      <title>Terry Fox Junior Boys Basketball</title>
+      <link>/project/terryfox/</link>
+      <pubDate>Sat, 23 Sep 2017 22:29:10 -0700</pubDate>
       
-      <guid>/competitions/nbahack17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moj.io Case Competition</title>
-      <link>/competitions/mojio/</link>
-      <pubDate>Mon, 22 May 2017 19:52:23 -0700</pubDate>
-      
-      <guid>/competitions/mojio/</guid>
+      <guid>/project/terryfox/</guid>
       <description></description>
     </item>
     

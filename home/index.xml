@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Coming Soon.</description>
+      <description>About Me Coming Soon</description>
     </item>
     
     <item>
@@ -58,20 +58,30 @@
     </item>
     
     <item>
-      <title>Competitions</title>
-      <link>/home/competitions/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/home/competitions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver Sports Analytics Symposium &amp; Hackathon</title>
+      <link>/home/vansash/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/vansash/</guid>
+      <description>VanSASH is a student run event geared towards students with a goal of giving them the tools to grow and succeed in the sports analytics industry. It is hosted by the SFU Sports Analytics Club.
+2017 VanSASH 2017 was the inaugural event where we partnered with the Vancouver Whitecaps FC and Vancouver Canucks to brinng challenging datasets to our hackathon participants. Additionally, 6 prominent researchers from industry and academia gave speeches about their topic of interest</description>
+    </item>
+    
+    <item>
+      <title>Competitions</title>
+      <link>/home/competitions/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/competitions/</guid>
       <description></description>
     </item>
     
@@ -82,16 +92,6 @@
       
       <guid>/home/coaching/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>

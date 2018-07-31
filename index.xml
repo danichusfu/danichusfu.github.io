@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pacific Rim Basketball Classic Canada Basketball</title>
+      <link>/project/pacific_rim/</link>
+      <pubDate>Fri, 22 Jun 2018 22:29:02 -0700</pubDate>
+      
+      <guid>/project/pacific_rim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Best Buy Canadian Headquarters</title>
       <link>/project/bby/</link>
       <pubDate>Wed, 23 May 2018 22:28:50 -0700</pubDate>
@@ -138,15 +147,6 @@
       <pubDate>Sat, 04 Nov 2017 19:50:39 -0700</pubDate>
       
       <guid>/competitions/hads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Terry Fox Junior Boys Basketball</title>
-      <link>/project/terryfox/</link>
-      <pubDate>Sat, 23 Sep 2017 22:29:10 -0700</pubDate>
-      
-      <guid>/project/terryfox/</guid>
       <description></description>
     </item>
     

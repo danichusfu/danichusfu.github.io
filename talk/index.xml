@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Dani Chu</title>
+    <title>Recent &amp; Upcoming Talks and Posters on Dani Chu</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Dani Chu</description>
+    <description>Recent content in Recent &amp; Upcoming Talks and Posters on Dani Chu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
@@ -27,6 +27,15 @@
       <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
       
       <guid>/talk/racing-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacing Profiles in World Championship 2000m Rowing Explored Through k-Shape Clustering</title>
+      <link>/talk/racing-profiles-cmsac/</link>
+      <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
+      
+      <guid>/talk/racing-profiles-cmsac/</guid>
       <description></description>
     </item>
     

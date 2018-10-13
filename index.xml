@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SFU SURJ: Undergraduate Poster Competition</title>
+      <link>/competitions/surj/</link>
+      <pubDate>Fri, 28 Sep 2018 23:59:00 +0000</pubDate>
+      
+      <guid>/competitions/surj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFU Men&#39;s Basketball</title>
+      <link>/project/sfu_bball/</link>
+      <pubDate>Fri, 07 Sep 2018 22:30:58 -0700</pubDate>
+      
+      <guid>/project/sfu_bball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSM Statistics in Sports: 2018 Undergraduate Research Competition</title>
+      <link>/competitions/jsm_2018/</link>
+      <pubDate>Tue, 31 Jul 2018 23:59:00 +0000</pubDate>
+      
+      <guid>/competitions/jsm_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pacific Rim Basketball Classic Canada Basketball</title>
       <link>/project/pacific_rim/</link>
       <pubDate>Fri, 22 Jun 2018 22:29:02 -0700</pubDate>
@@ -43,6 +70,15 @@
       <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
       
       <guid>/talk/racing-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacing Profiles in World Championship 2000m Rowing Explored Through k-Shape Clustering</title>
+      <link>/talk/racing-profiles-cmsac/</link>
+      <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
+      
+      <guid>/talk/racing-profiles-cmsac/</guid>
       <description></description>
     </item>
     
@@ -106,47 +142,6 @@
       <pubDate>Mon, 23 Apr 2018 22:30:58 -0700</pubDate>
       
       <guid>/project/ubcbball/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Canadian Sport Institute Pacific</title>
-      <link>/project/csip/</link>
-      <pubDate>Mon, 23 Apr 2018 22:28:55 -0700</pubDate>
-      
-      <guid>/project/csip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modified Kelly Criteria</title>
-      <link>/publication/modified-kelly-criteria/</link>
-      <pubDate>Thu, 01 Feb 2018 12:44:24 -0700</pubDate>
-      
-      <guid>/publication/modified-kelly-criteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SFU Business Analytics Hackathon</title>
-      <link>/competitions/badm/</link>
-      <pubDate>Sat, 18 Nov 2017 19:37:12 -0700</pubDate>
-      
-      <guid>/competitions/badm/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../files/BADM.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://beedie.sfu.ca/bbaportal/2017/10/badm-hackathon-2017-event-2017-11-18/&#34; target=&#34;_blank&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://beedie.sfu.ca/badm/students&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hockey Analytics Data Sprint</title>
-      <link>/competitions/hads/</link>
-      <pubDate>Sat, 04 Nov 2017 19:50:39 -0700</pubDate>
-      
-      <guid>/competitions/hads/</guid>
       <description></description>
     </item>
     

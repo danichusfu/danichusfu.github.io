@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/competitions/cmsac/</loc>
+      <lastmod>2018-10-20T23:59:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/competitions/surj/</loc>
       <lastmod>2018-09-28T23:59:00+00:00</lastmod>
     </url>
@@ -351,7 +360,7 @@
     <url>
     
       <loc>/competitions/</loc>
-      <lastmod>2018-09-28T23:59:00+00:00</lastmod>
+      <lastmod>2018-10-20T23:59:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

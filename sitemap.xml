@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-    
     <url>
     
       <loc>/competitions/cmsac/</loc>
@@ -10,7 +9,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -20,7 +18,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/sfu_bball/</loc>
@@ -28,7 +25,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -38,7 +34,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/pacific_rim/</loc>
@@ -46,7 +41,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -56,7 +50,6 @@
     
   
     
-    
     <url>
     
       <loc>/talk/improving-foul-management/</loc>
@@ -64,7 +57,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -74,7 +66,6 @@
     
   
     
-    
     <url>
     
       <loc>/talk/racing-profiles-cmsac/</loc>
@@ -82,7 +73,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -92,7 +82,6 @@
     
   
     
-    
     <url>
     
       <loc>/coaching/best/</loc>
@@ -100,7 +89,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -110,7 +98,6 @@
     
   
     
-    
     <url>
     
       <loc>/talk/catch-and-release/</loc>
@@ -118,7 +105,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -128,7 +114,6 @@
     
   
     
-    
     <url>
     
       <loc>/competitions/sac-kings/</loc>
@@ -136,7 +121,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -146,7 +130,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/csip/</loc>
@@ -154,7 +137,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -164,7 +146,6 @@
     
   
     
-    
     <url>
     
       <loc>/competitions/badm/</loc>
@@ -172,7 +153,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -182,7 +162,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/terryfox/</loc>
@@ -190,7 +169,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -200,7 +178,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/canbball/</loc>
@@ -208,7 +185,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -218,7 +194,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/nserc/</loc>
@@ -226,7 +201,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -236,7 +210,6 @@
     
   
     
-    
     <url>
     
       <loc>/project/vwfc/</loc>
@@ -244,7 +217,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -254,7 +226,6 @@
     
   
     
-    
     <url>
     
       <loc>/publication/</loc>
@@ -262,7 +233,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -272,7 +242,6 @@
     
   
     
-    
     <url>
     
       <loc>/coaching/tcyba/</loc>
@@ -280,7 +249,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -290,7 +258,6 @@
     
   
     
-    
     <url>
     
       <loc>/competitions/nbahack16/</loc>
@@ -298,7 +265,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -308,7 +274,6 @@
     
   
     
-    
     <url>
     
       <loc>/coaching/fvn/</loc>
@@ -316,7 +281,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -327,17 +291,6 @@
     
   
     
-    
-    <url>
-    
-      <loc>/tags/assistant/</loc>
-      <lastmod>2018-05-22T20:22:22-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
     <url>
     
       <loc>/categories/</loc>
@@ -345,7 +298,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -356,7 +308,6 @@
     
   
     
-    
     <url>
     
       <loc>/competitions/</loc>
@@ -365,7 +316,6 @@
     </url>
     
   
-    
     
     <url>
     
@@ -376,37 +326,6 @@
     
   
     
-    
-    <url>
-    
-      <loc>/tags/head/</loc>
-      <lastmod>2018-05-22T20:22:22-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/internship/</loc>
-      <lastmod>2018-05-23T22:28:50-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/operations/</loc>
-      <lastmod>2018-06-22T22:29:02-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
     <url>
     
       <loc>/project/</loc>
@@ -415,17 +334,6 @@
     </url>
     
   
-    
-    
-    <url>
-    
-      <loc>/tags/pub-research/</loc>
-      <lastmod>2018-04-23T22:28:55-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
     
     <url>
     
@@ -436,21 +344,63 @@
     
   
     
-    
     <url>
     
-      <loc>/tags/pvt-consulting/</loc>
-      <lastmod>2018-09-07T22:30:58-07:00</lastmod>
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
     
   
     
+    <url>
+    
+      <loc>/tags/assistant/</loc>
+      <lastmod>2018-05-22T20:22:22-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>/tags/head/</loc>
       <lastmod>2018-05-22T20:22:22-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/internship/</loc>
+      <lastmod>2018-05-23T22:28:50-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/operations/</loc>
+      <lastmod>2018-06-22T22:29:02-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pub-research/</loc>
+      <lastmod>2018-04-23T22:28:55-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pvt-consulting/</loc>
+      <lastmod>2018-09-07T22:30:58-07:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
+    <lastBuildDate>Tue, 22 May 2018 20:22:22 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>assistant</title>
+      <title>Assistant</title>
       <link>/tags/assistant/</link>
       <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
       
@@ -21,7 +22,7 @@
     </item>
     
     <item>
-      <title>head</title>
+      <title>Head</title>
       <link>/tags/head/</link>
       <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
       
@@ -30,7 +31,7 @@
     </item>
     
     <item>
-      <title>internship</title>
+      <title>Internship</title>
       <link>/tags/internship/</link>
       <pubDate>Wed, 23 May 2018 22:28:50 -0700</pubDate>
       
@@ -39,7 +40,7 @@
     </item>
     
     <item>
-      <title>operations</title>
+      <title>Operations</title>
       <link>/tags/operations/</link>
       <pubDate>Fri, 22 Jun 2018 22:29:02 -0700</pubDate>
       
@@ -48,7 +49,7 @@
     </item>
     
     <item>
-      <title>pub-research</title>
+      <title>Pub-research</title>
       <link>/tags/pub-research/</link>
       <pubDate>Mon, 23 Apr 2018 22:28:55 -0700</pubDate>
       
@@ -57,7 +58,7 @@
     </item>
     
     <item>
-      <title>pvt-consulting</title>
+      <title>Pvt-consulting</title>
       <link>/tags/pvt-consulting/</link>
       <pubDate>Fri, 07 Sep 2018 22:30:58 -0700</pubDate>
       

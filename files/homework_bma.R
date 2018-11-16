@@ -10,8 +10,6 @@
 ###### set i to 1 and step through the for loop (without running the whole thing)
 ###### to test each part of the question
 
-
-
 # Install package manager package called pacman
 # install.packages(pacman)
 pacman::p_load(tidyverse, BMS, leaps, glmnet)
@@ -42,7 +40,7 @@ for(i in 1:5){
     data_fls %>% 
     filter(fold != i) %>%
     select(-fold)
-    
+  
   # move everything in the hold out fold into the test set
   data_fls_test <- 
     data_fls %>% 
@@ -78,18 +76,11 @@ for(i in 1:5){
   ### PART A #####
   ################
   
+  
   # Calculate the rmse if we were to select the model based on BIC instead of 
   # adjusted R^2
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ 
   
   
   
@@ -120,14 +111,11 @@ for(i in 1:5){
   ### PART B #####
   ################
   
-  # fit a ridge regression model using cross validation to choose the best lambda
-  # and the data in data_fls_train_x
+  # fit a ridge regression model using a cross validation to choose the best lambda
   # save the model in an object called ridge_model
   # use the code below to assess its rmse
   
   # get optimal lambda
-  
-  
   
   # fit ridge model
   ridge_model <- 
@@ -136,12 +124,6 @@ for(i in 1:5){
   
   
   
-  
-  
-  
-  
-    
-    
   
   
   
@@ -178,7 +160,7 @@ for(i in 1:5){
   ### PART C #####
   ################
   
-  # Fill in the missing parameter needed to fit the bayesian model averaging
+  # Fill in the missing parameters needed to fit the bayesian model averaging
   
   # bayesian model averaging
   mfls <- 
@@ -191,7 +173,7 @@ for(i in 1:5){
         iter = 200000, 
         # g-prior for Betas
         g = "BRIC", 
-        # model prior is BLANK
+        # model prior is 
         mprior = "", 
         # only save the top 2000 models
         nmodel = 2000, 
@@ -199,10 +181,6 @@ for(i in 1:5){
         mcmc = "bd", 
         # see output in console
         user.int = FALSE)
-  
-  
-  
-  
   
   
   
@@ -259,16 +237,76 @@ for(i in 1:5){
   
   
   
+  
+  
+  
+  
+  
   #####################################################################################################
   
   ################
   ### PART E #####
   ################
   
+  
+  # given the weights below use them to train a new bayesian model averaging model
+  # with the weights as the prior probability of having a model of that size
+  
+  
+  model_size_weights <- c(seq(1, 21, by = 1), seq(21, 1, by = -1))
+  model_size_weights <- model_size_weights / sum(model_size_weights)
+  
+  mfls_prior <- 
+    bms(data_fls_train, 
+        # burn in, number of iterations to run 
+        # before calculating statistics
+        burn = 100000, 
+        # number of iterations for which to save 
+        # information for
+        iter = 200000, 
+        # g-prior for Betas
+        g = "BRIC", 
+        # USE A NEW PRIOR
+        mprior = "",
+        # INSERT SOMETHING HERE
+        mprior.size = ,
+        # only save the top 2000 models
+        nmodel = 2000, 
+        # use a birth death metorpolis sampler
+        mcmc = "bd", 
+        # see output in console
+        user.int = FALSE)
+  
+  
+  
+  
+  # predict for the test set for the model using the average posterior density 
+  bma_avg_new_prior_pred <- predict(mfls_prior, data_fls_test)
+  
+  # calculate the out of sample rmse
+  bma_avg_new_prior_rmse <- sqrt( mean( (data_fls_test$y - bma_avg_new_prior_pred)^2 ) )
+  
+  
+  
+  ####################################################################################################
+  
+  
+  ################
+  ### PART F #####
+  ################
+  
   # add any new rmse values that you've calculated and add them to this tibble
   
   rmse[i] <-
-    list(tibble(step_adjr2_rmse, ridge_rmse, bma_avg_rmse, bma_best_rmse, bma_100_rmse, bma_1000_rmse ))
+    list(tibble(step_adjr2_rmse,
+                ridge_rmse, 
+                bma_avg_rmse, 
+                bma_best_rmse, 
+                bma_100_rmse))
+  
+  
+  
+  
   
   
   
@@ -287,7 +325,7 @@ for(i in 1:5){
 
 
 ################
-### PART F #####
+### PART G #####
 ################
 
 # Run the for loop above 
@@ -302,8 +340,6 @@ tibble(rmse) %>%
 tibble(rmse) %>%
   unnest() %>%
   summarise_all(mean)
-
-
 
 
 

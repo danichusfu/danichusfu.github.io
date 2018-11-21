@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Sat, 20 Oct 2018 23:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 19:37:12 -0700</lastBuildDate>
     
 	<atom:link href="/competitions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SFU Business Analytics Hackathon 2018-19</title>
+      <link>/competitions/badm_18/</link>
+      <pubDate>Sat, 17 Nov 2018 19:37:12 -0700</pubDate>
+      
+      <guid>/competitions/badm_18/</guid>
+      <description> Slides Event
+Video </description>
+    </item>
     
     <item>
       <title>2018 Carnegie Mellon Sports Analytics Conference Poster Competition</title>
@@ -22,7 +32,7 @@
     </item>
     
     <item>
-      <title>SFU SURJ: Undergraduate Poster Competition</title>
+      <title>SFU Science Undergraduate Research Journal: Undergraduate Poster Competition</title>
       <link>/competitions/surj/</link>
       <pubDate>Fri, 28 Sep 2018 23:59:00 +0000</pubDate>
       

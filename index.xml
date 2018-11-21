@@ -11,6 +11,31 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>VanSASH: The First Soccer Analytics Hackathon in North America</title>
+      <link>/talk/canssi_launch/</link>
+      <pubDate>Mon, 19 Nov 2018 21:22:07 -0700</pubDate>
+      
+      <guid>/talk/canssi_launch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFU Business Analytics Hackathon 2018-19</title>
+      <link>/competitions/badm_18/</link>
+      <pubDate>Sat, 17 Nov 2018 19:37:12 -0700</pubDate>
+      
+      <guid>/competitions/badm_18/</guid>
+      <description>
+
+&lt;h1 id=&#34;slides-files-badm-pdf&#34;&gt;&lt;a href=&#34;../../files/BADM.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://beediehackathon.bus.sfu.ca/&#34; target=&#34;_blank&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;video-http-beedie-sfu-ca-badm-students&#34;&gt;&lt;a href=&#34;http://beedie.sfu.ca/badm/students&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2018 Carnegie Mellon Sports Analytics Conference Poster Competition</title>
       <link>/competitions/cmsac/</link>
       <pubDate>Sat, 20 Oct 2018 23:59:00 +0000</pubDate>
@@ -20,7 +45,7 @@
     </item>
     
     <item>
-      <title>SFU SURJ: Undergraduate Poster Competition</title>
+      <title>SFU Science Undergraduate Research Journal: Undergraduate Poster Competition</title>
       <link>/competitions/surj/</link>
       <pubDate>Fri, 28 Sep 2018 23:59:00 +0000</pubDate>
       
@@ -124,24 +149,6 @@
       <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
       
       <guid>/coaching/tc-north/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catch and Release? Endowment Effects in the NHL Expansion Draft</title>
-      <link>/talk/catch-and-release/</link>
-      <pubDate>Tue, 22 May 2018 19:09:36 -0700</pubDate>
-      
-      <guid>/talk/catch-and-release/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structure vs Speed: Evaluating the Power Play Neutral Zone Regroup Decision in the AHL</title>
-      <link>/talk/structure-vs-speed/</link>
-      <pubDate>Tue, 22 May 2018 18:24:02 -0700</pubDate>
-      
-      <guid>/talk/structure-vs-speed/</guid>
       <description></description>
     </item>
     

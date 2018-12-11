@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>3 Question 2 | Stat 850 Final Exam</title>
+  <meta name="description" content="Take home final exam for Stat 850, Linear Models.">
+  <meta name="generator" content="bookdown  and GitBook 2.6.7">
+
+  <meta property="og:title" content="3 Question 2 | Stat 850 Final Exam />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Take home final exam for Stat 850, Linear Models." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="3 Question 2 | Stat 850 Final Exam />
+  
+  <meta name="twitter:description" content="Take home final exam for Stat 850, Linear Models." />
+  
+
+<meta name="author" content="Dani Chu">
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+<link rel="prev" href="question-1.html">
+<link rel="next" href="question-3.html">
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="https://danichusfu.github.io">My website</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="2" data-path="question-1.html"><a href="question-1.html"><i class="fa fa-check"></i><b>2</b> Question 1</a><ul>
+<li class="chapter" data-level="2.1" data-path="question-1.html"><a href="question-1.html#part-a"><i class="fa fa-check"></i><b>2.1</b> Part A</a></li>
+<li class="chapter" data-level="2.2" data-path="question-1.html"><a href="question-1.html#part-b"><i class="fa fa-check"></i><b>2.2</b> Part B</a></li>
+<li class="chapter" data-level="2.3" data-path="question-1.html"><a href="question-1.html#part-c"><i class="fa fa-check"></i><b>2.3</b> Part C</a></li>
+<li class="chapter" data-level="2.4" data-path="question-1.html"><a href="question-1.html#part-d"><i class="fa fa-check"></i><b>2.4</b> Part D</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="question-2.html"><a href="question-2.html"><i class="fa fa-check"></i><b>3</b> Question 2</a><ul>
+<li class="chapter" data-level="3.1" data-path="question-2.html"><a href="question-2.html#part-a-1"><i class="fa fa-check"></i><b>3.1</b> Part A</a></li>
+<li class="chapter" data-level="3.2" data-path="question-2.html"><a href="question-2.html#part-b-1"><i class="fa fa-check"></i><b>3.2</b> Part B</a></li>
+<li class="chapter" data-level="3.3" data-path="question-2.html"><a href="question-2.html#part-c-1"><i class="fa fa-check"></i><b>3.3</b> Part C</a><ul>
+<li class="chapter" data-level="3.3.1" data-path="question-2.html"><a href="question-2.html#outliers"><i class="fa fa-check"></i><b>3.3.1</b> Outliers</a></li>
+<li class="chapter" data-level="3.3.2" data-path="question-2.html"><a href="question-2.html#errors"><i class="fa fa-check"></i><b>3.3.2</b> Errors</a></li>
+<li class="chapter" data-level="3.3.3" data-path="question-2.html"><a href="question-2.html#verify-model-choice"><i class="fa fa-check"></i><b>3.3.3</b> Verify Model Choice</a></li>
+</ul></li>
+<li class="chapter" data-level="3.4" data-path="question-2.html"><a href="question-2.html#part-d-1"><i class="fa fa-check"></i><b>3.4</b> Part D</a></li>
+<li class="chapter" data-level="3.5" data-path="question-2.html"><a href="question-2.html#part-e"><i class="fa fa-check"></i><b>3.5</b> Part E</a></li>
+<li class="chapter" data-level="3.6" data-path="question-2.html"><a href="question-2.html#part-f"><i class="fa fa-check"></i><b>3.6</b> Part F</a></li>
+<li class="chapter" data-level="3.7" data-path="question-2.html"><a href="question-2.html#part-g"><i class="fa fa-check"></i><b>3.7</b> Part G</a></li>
+<li class="chapter" data-level="3.8" data-path="question-2.html"><a href="question-2.html#part-h"><i class="fa fa-check"></i><b>3.8</b> Part H</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="question-3.html"><a href="question-3.html"><i class="fa fa-check"></i><b>4</b> Question 3</a><ul>
+<li class="chapter" data-level="4.1" data-path="question-3.html"><a href="question-3.html#part-a-2"><i class="fa fa-check"></i><b>4.1</b> Part A</a></li>
+<li class="chapter" data-level="4.2" data-path="question-3.html"><a href="question-3.html#part-b-2"><i class="fa fa-check"></i><b>4.2</b> Part B</a></li>
+<li class="chapter" data-level="4.3" data-path="question-3.html"><a href="question-3.html#part-c-2"><i class="fa fa-check"></i><b>4.3</b> Part C</a></li>
+<li class="chapter" data-level="4.4" data-path="question-3.html"><a href="question-3.html#part-d-2"><i class="fa fa-check"></i><b>4.4</b> Part D</a></li>
+<li class="chapter" data-level="4.5" data-path="question-3.html"><a href="question-3.html#part-e-1"><i class="fa fa-check"></i><b>4.5</b> Part E</a></li>
+<li class="chapter" data-level="4.6" data-path="question-3.html"><a href="question-3.html#part-f-1"><i class="fa fa-check"></i><b>4.6</b> Part F</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="question-4.html"><a href="question-4.html"><i class="fa fa-check"></i><b>5</b> Question 4</a><ul>
+<li class="chapter" data-level="5.1" data-path="question-4.html"><a href="question-4.html#part-a-3"><i class="fa fa-check"></i><b>5.1</b> Part A</a></li>
+<li class="chapter" data-level="5.2" data-path="question-4.html"><a href="question-4.html#part-b-3"><i class="fa fa-check"></i><b>5.2</b> Part B</a></li>
+<li class="chapter" data-level="5.3" data-path="question-4.html"><a href="question-4.html#part-c-3"><i class="fa fa-check"></i><b>5.3</b> Part C</a></li>
+<li class="chapter" data-level="5.4" data-path="question-4.html"><a href="question-4.html#part-d-3"><i class="fa fa-check"></i><b>5.4</b> Part D</a><ul>
+<li class="chapter" data-level="5.4.1" data-path="question-4.html"><a href="question-4.html#outliers-1"><i class="fa fa-check"></i><b>5.4.1</b> Outliers</a></li>
+<li class="chapter" data-level="5.4.2" data-path="question-4.html"><a href="question-4.html#errors-1"><i class="fa fa-check"></i><b>5.4.2</b> Errors</a></li>
+</ul></li>
+<li class="chapter" data-level="5.5" data-path="question-4.html"><a href="question-4.html#part-e-2"><i class="fa fa-check"></i><b>5.5</b> Part E</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="question-5.html"><a href="question-5.html"><i class="fa fa-check"></i><b>6</b> Question 5</a><ul>
+<li class="chapter" data-level="6.1" data-path="question-5.html"><a href="question-5.html#part-a-4"><i class="fa fa-check"></i><b>6.1</b> Part A</a></li>
+<li class="chapter" data-level="6.2" data-path="question-5.html"><a href="question-5.html#part-b-4"><i class="fa fa-check"></i><b>6.2</b> Part B</a></li>
+<li class="chapter" data-level="6.3" data-path="question-5.html"><a href="question-5.html#part-c-4"><i class="fa fa-check"></i><b>6.3</b> Part C</a></li>
+<li class="chapter" data-level="6.4" data-path="question-5.html"><a href="question-5.html#part-d-4"><i class="fa fa-check"></i><b>6.4</b> Part D</a><ul>
+<li class="chapter" data-level="6.4.1" data-path="question-5.html"><a href="question-5.html#outliers-2"><i class="fa fa-check"></i><b>6.4.1</b> Outliers</a></li>
+<li class="chapter" data-level="6.4.2" data-path="question-5.html"><a href="question-5.html#resiudals"><i class="fa fa-check"></i><b>6.4.2</b> Resiudals</a></li>
+</ul></li>
+<li class="chapter" data-level="6.5" data-path="question-5.html"><a href="question-5.html#part-e-3"><i class="fa fa-check"></i><b>6.5</b> Part E</a></li>
+<li class="chapter" data-level="6.6" data-path="question-5.html"><a href="question-5.html#part-f-2"><i class="fa fa-check"></i><b>6.6</b> Part F</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Stat 850 Final Exam</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="question-2" class="section level1">
+<h1><span class="header-section-number">3</span> Question 2</h1>
+<div id="part-a-1" class="section level2">
+<h2><span class="header-section-number">3.1</span> Part A</h2>
+<p>I fit a multiple linear regression model to the data given in the file “question2.txt”. The estimated least squares regression coefficients are presented in table <a href="question-2.html#tab:coefs">3.1</a>.</p>
+<table>
+<caption><span id="tab:coefs">Table 3.1: </span>OLS regression coefficients</caption>
+<thead>
+<tr class="header">
+<th align="left">Term</th>
+<th align="right">Estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Intercept</td>
+<td align="right">0.02</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 1</td>
+<td align="right">0.81</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 2</td>
+<td align="right">1.89</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 3</td>
+<td align="right">-3.01</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 4</td>
+<td align="right">-4.21</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 5</td>
+<td align="right">-4.71</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="part-b-1" class="section level2">
+<h2><span class="header-section-number">3.2</span> Part B</h2>
+<p>For the model fit in part A, the estimate for <span class="math inline">\(\sigma\)</span> is <span class="math inline">\(\hat{\sigma}\)</span> = 1.29. For comparison, if just the mean of the response was used to predict the response variable we would have a root mean squared error of 8.37. If we take the ratio of the square of these values (<span class="math inline">\(\frac{SSE}{SST}\)</span>) we get the <span class="math inline">\(R^2\)</span> for this model which is 0.98. We can see with these 2 comparisons that the value of <span class="math inline">\(\sigma\)</span> is small given the variability of the data. The response variable ranges from -23.1 to 24.8, so 1.29 is very small with respect to the range of the response.</p>
+</div>
+<div id="part-c-1" class="section level2">
+<h2><span class="header-section-number">3.3</span> Part C</h2>
+<p>The model assumptions are</p>
+<ol style="list-style-type: decimal">
+<li><p>Outliers do not impact the analysis in any obvious way.</p></li>
+<li><p>That the errors have equal variance, are normally distributed, and are independent.</p></li>
+<li><p>That the multiple linear regression is in fact the correct model to use. <span class="math inline">\(E(y) = X \beta\)</span>.</p></li>
+</ol>
+<div id="outliers" class="section level3">
+<h3><span class="header-section-number">3.3.1</span> Outliers</h3>
+<p>To asses whether there is any effect on the model due to outliers I made half normal qq plots for leverage and cooks distance. We can see in Figure <a href="question-2.html#fig:leverage-q2">3.1</a> that there does not seem to be any outliers that are having a large influence on the model fit.</p>
+<div class="figure" style="text-align: center"><span id="fig:leverage-q2"></span>
+<img src="final_exam_2_files/figure-html/leverage-q2-1.png" alt="Searching for Outliers with Large Influence" width="80%" />
+<p class="caption">
+Figure 3.1: Searching for Outliers with Large Influence
+</p>
+</div>
+<p>However in Figure <a href="question-2.html#fig:cooks-q2">3.2</a> we can see that we have one very very large outlier. This value does not appear to be from the same model as the rest of the data.</p>
+<div class="figure" style="text-align: center"><span id="fig:cooks-q2"></span>
+<img src="final_exam_2_files/figure-html/cooks-q2-1.png" alt="Searching for Unlikely Observations" width="80%" />
+<p class="caption">
+Figure 3.2: Searching for Unlikely Observations
+</p>
+</div>
+<p>We can see this clearly when we plot our fitted values vs the response in Figure <a href="question-2.html#fig:fit-v-response">3.3</a>.</p>
+<div class="figure" style="text-align: center"><span id="fig:fit-v-response"></span>
+<img src="final_exam_2_files/figure-html/fit-v-response-1.png" alt="Fitted Values vs Response with one big outlier" width="80%" />
+<p class="caption">
+Figure 3.3: Fitted Values vs Response with one big outlier
+</p>
+</div>
+<p>If this was a real world situation I would investigate further about the data collection process and circumstances that led to this measurement. I would check to see if there was perhaps a data entry error or wheteher this is a realistic outcome.</p>
+<p>Since I do not have that capacity here, I have decided to run a simulation to see how likely it was to see a residual of this size. For 10^{5} simulations, I generated 250 random values from a normal distribution with mean 0 and a standard deviation of <span class="math inline">\(\hat{\sigma}\)</span> (1.29). Out of those 10^{5} simulations, there were 0 which had a value as or more extreme as the residual value we see for our big outlier.</p>
+<p>As a result I will remove the point as it does not appear to be from the same model as the rest of the data. In the real world I would make a note that I have removed this point and watch to see if we see anything similar pop up again.</p>
+<p>I will refit the model with this point removed before continuing on with any of the other assumption checking. We can see in table <a href="question-2.html#tab:coefs-no-outlier">3.2</a> that the new beta estimates have not changed much. This was to be expected becasue the outlier did not have a large leverage value. The updated estimate of <span class="math inline">\(\hat{\sigma}\)</span> is 1.01.</p>
+<table>
+<caption><span id="tab:coefs-no-outlier">Table 3.2: </span>OLS regression coefficients with outlier removed</caption>
+<thead>
+<tr class="header">
+<th align="left">Term</th>
+<th align="right">Estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Intercept</td>
+<td align="right">-0.02</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 1</td>
+<td align="right">0.96</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 2</td>
+<td align="right">1.87</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 3</td>
+<td align="right">-3.01</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 4</td>
+<td align="right">-4.06</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 5</td>
+<td align="right">-4.88</td>
+</tr>
+</tbody>
+</table>
+<p>We can now compare the half normal qq plot for cooks distance for the model with the outlier and without the outlier. The Figure <a href="question-2.html#fig:cooks-q2-2">3.4</a> shows the plot with the outlier and Figure <a href="question-2.html#fig:cooks-no-outlier-q2">3.5</a> shows the plot with the outlier removed.</p>
+<div class="figure" style="text-align: center"><span id="fig:cooks-q2-2"></span>
+<img src="final_exam_2_files/figure-html/cooks-q2-2-1.png" alt="Cooks Distance Before" width="80%" />
+<p class="caption">
+Figure 3.4: Cooks Distance Before
+</p>
+</div>
+<p>As they are set to the same scale we can see clearly that the diagnostic has improved after the outlier is removed.</p>
+<div class="figure" style="text-align: center"><span id="fig:cooks-no-outlier-q2"></span>
+<img src="final_exam_2_files/figure-html/cooks-no-outlier-q2-1.png" alt="Cooks Distance After" width="80%" />
+<p class="caption">
+Figure 3.5: Cooks Distance After
+</p>
+</div>
+<p>Finally, I plot the half normal qq plot of the leverage after the outlier has been removed in Figure <a href="question-2.html#fig:lev-after">3.6</a> to show that we have not introduced any concerns by removing the observation.</p>
+<div class="figure" style="text-align: center"><span id="fig:lev-after"></span>
+<img src="final_exam_2_files/figure-html/lev-after-1.png" alt="Leverage After Outlier Removed" width="80%" />
+<p class="caption">
+Figure 3.6: Leverage After Outlier Removed
+</p>
+</div>
+<p>We can now continue on with the rest of the model assumption checks.</p>
+</div>
+<div id="errors" class="section level3">
+<h3><span class="header-section-number">3.3.2</span> Errors</h3>
+<p>I will now check to see if the residuals have equal variance, are normally distributed and are independent. To check for equal variance in the reisduals I plot the residuals against the fitted values in Figure <a href="question-2.html#fig:resid-fit-q2">3.7</a>. Using “Loughins Thumb Test”, I do not see anything that would indicate that the constant variance assumption is violated.</p>
+<div class="figure" style="text-align: center"><span id="fig:resid-fit-q2"></span>
+<img src="final_exam_2_files/figure-html/resid-fit-q2-1.png" alt="Checking for constant variance" width="80%" />
+<p class="caption">
+Figure 3.7: Checking for constant variance
+</p>
+</div>
+<p>Next I plotted a normal qq plot for the residuals to check to see if the data looks normally distributed. In Figure <a href="question-2.html#fig:qq-q2">3.8</a>, I do not see anything that would lead me to believe that the residuals are not normal.</p>
+<div class="figure" style="text-align: center"><span id="fig:qq-q2"></span>
+<img src="final_exam_2_files/figure-html/qq-q2-1.png" alt="Checking for normality" width="80%" />
+<p class="caption">
+Figure 3.8: Checking for normality
+</p>
+</div>
+<p>Finally, I checked to see if I could find a reason why the residuals would not be independent. Since there is no practical interpretations for the data the best I could do was to plot the residuals by row number. In Figure <a href="question-2.html#fig:resid-order-q2">3.9</a>, it looks like the residuals are independent of the order in which the data was collected. Since there were no signs of autocorrelation I did not feel the need to include a Durbin Watson test.</p>
+<div class="figure" style="text-align: center"><span id="fig:resid-order-q2"></span>
+<img src="final_exam_2_files/figure-html/resid-order-q2-1.png" alt="Checking for Independence of Order of Collection" width="80%" />
+<p class="caption">
+Figure 3.9: Checking for Independence of Order of Collection
+</p>
+</div>
+</div>
+<div id="verify-model-choice" class="section level3">
+<h3><span class="header-section-number">3.3.3</span> Verify Model Choice</h3>
+<p>While it is not a perfect way to check the validity of the linear relationship we have assumed on the data because for any fixed value of a variable the other variables are changing, in Figure <a href="question-2.html#fig:pairs-q2">3.10</a> we can see that all of the regressors look like they have a linear relationship with the response. There is an argument to be made that Regressor 1 and 2 are unhelpful in explaing the reponse but again we are not sure how they change with respect to the other regressors.</p>
+<div class="figure" style="text-align: center"><span id="fig:pairs-q2"></span>
+<img src="final_exam_2_files/figure-html/pairs-q2-1.png" alt="Checking for linear relationships" width="80%" />
+<p class="caption">
+Figure 3.10: Checking for linear relationships
+</p>
+</div>
+<p>With that we have checked all the model assumptions. The only change we made was removing the large outlier from the dataset.</p>
+</div>
+</div>
+<div id="part-d-1" class="section level2">
+<h2><span class="header-section-number">3.4</span> Part D</h2>
+<p>In Table <a href="question-2.html#tab:conf-ints-q2">3.3</a> there are the 95% confidence intervals for the model coefficients.</p>
+<table>
+<caption><span id="tab:conf-ints-q2">Table 3.3: </span>95 percent Confidence Intervals for model coefficients</caption>
+<thead>
+<tr class="header">
+<th align="left">Term</th>
+<th align="right">Estimate</th>
+<th align="right">Conf Low</th>
+<th align="right">Conf High</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Intercept</td>
+<td align="right">-0.02</td>
+<td align="right">-0.15</td>
+<td align="right">0.11</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 1</td>
+<td align="right">0.96</td>
+<td align="right">0.77</td>
+<td align="right">1.15</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 2</td>
+<td align="right">1.87</td>
+<td align="right">1.68</td>
+<td align="right">2.07</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 3</td>
+<td align="right">-3.01</td>
+<td align="right">-3.22</td>
+<td align="right">-2.81</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 4</td>
+<td align="right">-4.06</td>
+<td align="right">-4.25</td>
+<td align="right">-3.86</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 5</td>
+<td align="right">-4.88</td>
+<td align="right">-5.06</td>
+<td align="right">-4.70</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="part-e" class="section level2">
+<h2><span class="header-section-number">3.5</span> Part E</h2>
+<p>In Figure <a href="question-2.html#fig:joint-conf-q2">3.11</a> I plotted a joint 95% confidence region for <span class="math inline">\(\beta_1\)</span> and <span class="math inline">\(\beta_2\)</span>. This region can be used to test the null hypothesis</p>
+<p><span class="math display">\[\begin{align}
+  \beta_1 &amp;= \beta_2 = 0
+\end{align}\]</span></p>
+<p>Against the alternative hypothesis that</p>
+<p><span class="math display">\[\begin{align}
+  \beta_1 \neq 0\ &amp;|\ \beta_2 \neq 0
+\end{align}\]</span></p>
+<p>Since the region does not overlap with the original we can reject the null hypothesis in favour of the alternative hypothesis that both coefficients are not equal to 0 at the <span class="math inline">\(\alpha = 0.05\)</span> level.</p>
+<div class="figure" style="text-align: center"><span id="fig:joint-conf-q2"></span>
+<img src="final_exam_2_files/figure-html/joint-conf-q2-1.png" alt="Joint 95 percent Confidence Interval for Regressor 1 and Regressor 2" width="80%" />
+<p class="caption">
+Figure 3.11: Joint 95 percent Confidence Interval for Regressor 1 and Regressor 2
+</p>
+</div>
+</div>
+<div id="part-f" class="section level2">
+<h2><span class="header-section-number">3.6</span> Part F</h2>
+<p>Using the data with the outlier removed I fit ridge regression models for <span class="math inline">\(\lambda\)</span> values between 0 and 50. As a result I have plotted in Figure <a href="question-2.html#fig:ridge-coef-q2">3.12</a> the coefficients of the various regressors at each <span class="math inline">\(\lambda\)</span> value. Since the best lambda, the one with the smallesti cross validation mean squared error, is 0, the best model is actually the one without penalization. This is telling us that the model we should use is the one with the OLS coefficient estimates. These coefficient estimates are displayed in Table <a href="question-2.html#tab:coefs-no-outlier">3.2</a>.</p>
+<div class="figure" style="text-align: center"><span id="fig:ridge-coef-q2"></span>
+<img src="final_exam_2_files/figure-html/ridge-coef-q2-1.png" alt="Ridge Regression Coefficients as Lambda Varies" width="80%" />
+<p class="caption">
+Figure 3.12: Ridge Regression Coefficients as Lambda Varies
+</p>
+</div>
+</div>
+<div id="part-g" class="section level2">
+<h2><span class="header-section-number">3.7</span> Part G</h2>
+<p>I performed forward selection using AIC as my evaluation metric and an implementation provided by the MASS package. Again, the full model is suggested as the best one. The coefficient estimates are in Table <a href="question-2.html#tab:coefs-no-outlier">3.2</a>.</p>
+</div>
+<div id="part-h" class="section level2">
+<h2><span class="header-section-number">3.8</span> Part H</h2>
+<p>Given that both model selection techniques returned the OLS model, if I knew that each coefficient was originally an integer I would simply round the coefficients to the nearest integer to get the values in Table <a href="question-2.html#tab:coefs-rounded-q2">3.4</a></p>
+<table>
+<caption><span id="tab:coefs-rounded-q2">Table 3.4: </span>OLS regression coefficients with outlier removed rounded to nearest integer</caption>
+<thead>
+<tr class="header">
+<th align="left">Term</th>
+<th align="right">Estimate</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Intercept</td>
+<td align="right">0</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 1</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 2</td>
+<td align="right">2</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 3</td>
+<td align="right">-3</td>
+</tr>
+<tr class="odd">
+<td align="left">Regressor 4</td>
+<td align="right">-4</td>
+</tr>
+<tr class="even">
+<td align="left">Regressor 5</td>
+<td align="right">-5</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="question-1.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="question-3.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"google": false,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"download": ["final_exam_2.pdf", "final_exam_2.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:" && /^https?:/.test(src))
+      src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

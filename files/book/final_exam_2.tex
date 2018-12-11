@@ -426,7 +426,7 @@ Since the region does not overlap with the original we can reject the null hypot
 \hypertarget{part-f}{%
 \section{Part F}\label{part-f}}
 
-Using the data with the outlier removed I fit ridge regression models for \(\lambda\) values between 0 and 50. As a result I have plotted in Figure \ref{fig:ridge-coef-q2} the coefficients of the various regressors at each \(\lambda\) value. Since the best lambda, the one with the smallesti cross validation mean squared error, is 0, the best model is actually the one without penalization. This is telling us that the model we should use is the one with the OLS coefficient estimates. These coefficient estimates are displayed in Table \ref{tab:coefs-no-outlier}.
+Using the data with the outlier removed I fit ridge regression models for \(\lambda\) values between 0 and 50. As a result I have plotted in Figure \ref{fig:ridge-coef-q2} the coefficients of the various regressors at each \(\lambda\) value. Since the best lambda, the one with the smallesti cross validation mean squared error, is 0.02, the best model is actually the one without penalization. This is telling us that the model we should use is the one with the OLS coefficient estimates. These coefficient estimates are displayed in Table \ref{tab:coefs-no-outlier}.
 
 \begin{figure}
 
@@ -481,9 +481,9 @@ I simulated 1000 different responses from the true model and estimated the model
 \toprule
 Term & Mean\\
 \midrule
-Intercept & 0.997\\
-Regressor 1 & 2.000\\
-Regressor 2 & 3.000\\
+Intercept & 1.01\\
+Regressor 1 & 2.00\\
+Regressor 2 & 2.99\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -511,9 +511,9 @@ Regressor 2 & -0.052200 & -0.000863 & 0.103000\\
 \toprule
 Term & Intercept & Regressor 1 & Regressor 2\\
 \midrule
-Intercept & 0.032400 & 0.000656 & -0.051800\\
-Regressor 1 & 0.000656 & 0.005270 & -0.000856\\
-Regressor 2 & -0.051800 & -0.000856 & 0.103000\\
+Intercept & 0.032700 & 0.000662 & -0.052300\\
+Regressor 1 & 0.000662 & 0.005320 & -0.000864\\
+Regressor 2 & -0.052300 & -0.000864 & 0.104000\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -575,7 +575,7 @@ Regressor & Mean\\
 \midrule
 Intercept & 1.31\\
 Regressor 1 & 1.97\\
-Regressor 2 & 2.32\\
+Regressor 2 & 2.31\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -646,7 +646,7 @@ Regressor & Mean\\
 \midrule
 Intercept & 1.11\\
 Regressor 1 & 1.99\\
-Regressor 2 & 2.78\\
+Regressor 2 & 2.77\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -659,9 +659,9 @@ Regressor 2 & 2.78\\
 \toprule
 Term & Intercept & Regressor 1 & Regressor 2\\
 \midrule
-Intercept & 0.037100 & 0.000751 & -0.05930\\
-Regressor 1 & 0.000751 & 0.006030 & -0.00098\\
-Regressor 2 & -0.059300 & -0.000980 & 0.11700\\
+Intercept & 0.037300 & 0.000755 & -0.059700\\
+Regressor 1 & 0.000755 & 0.006060 & -0.000986\\
+Regressor 2 & -0.059700 & -0.000986 & 0.118000\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -713,9 +713,9 @@ The estimated covariance matrix of the estimated model parameters in table \ref{
 \toprule
 Regressor & Mean\\
 \midrule
-Intercept & 1.26\\
+Intercept & 1.27\\
 Regressor 1 & 1.99\\
-Regressor 2 & 2.46\\
+Regressor 2 & 2.45\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -728,9 +728,9 @@ Regressor 2 & 2.46\\
 \toprule
 Term & Intercept & Regressor 1 & Regressor 2\\
 \midrule
-Intercept & 0.044100 & 0.000894 & -0.07060\\
-Regressor 1 & 0.000894 & 0.007170 & -0.00117\\
-Regressor 2 & -0.070600 & -0.001170 & 0.14000\\
+Intercept & 0.044200 & 0.000896 & -0.07080\\
+Regressor 1 & 0.000896 & 0.007190 & -0.00117\\
+Regressor 2 & -0.070800 & -0.001170 & 0.14000\\
 \bottomrule
 \end{tabular}
 \end{table}

@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>NFL Big Data Bowl 2019</title>
+      <link>/competitions/bigdatabowl/</link>
+      <pubDate>Tue, 22 Jan 2019 19:52:06 -0700</pubDate>
+      
+      <guid>/competitions/bigdatabowl/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://operations.nfl.com/the-game/big-data-bowl/&#34; target=&#34;_blank&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../files/Big_Data_Bowl.pdf&#34;&gt;Report&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>VanSASH: The First Soccer Analytics Hackathon in North America</title>
       <link>/talk/canssi_launch/</link>
       <pubDate>Mon, 19 Nov 2018 21:22:07 -0700</pubDate>
@@ -25,13 +37,11 @@
       <pubDate>Sat, 17 Nov 2018 19:37:12 -0700</pubDate>
       
       <guid>/competitions/badm_18/</guid>
-      <description>
-
-&lt;h1 id=&#34;slides-files-badm-pdf&#34;&gt;&lt;a href=&#34;../../files/BADM.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/h1&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;../../files/BADM.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://beediehackathon.bus.sfu.ca/&#34; target=&#34;_blank&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;video-http-beedie-sfu-ca-badm-students&#34;&gt;&lt;a href=&#34;http://beedie.sfu.ca/badm/students&#34; target=&#34;_blank&#34;&gt;Video&lt;/a&gt;&lt;/h1&gt;
+&lt;!--- [Video](http://beedie.sfu.ca/badm/students) --&gt;
 </description>
     </item>
     
@@ -140,15 +150,6 @@
       <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
       
       <guid>/coaching/best/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TC North Basketball Academy Junior Varsity Fall Travelling Team</title>
-      <link>/coaching/tc-north/</link>
-      <pubDate>Tue, 22 May 2018 20:21:59 -0700</pubDate>
-      
-      <guid>/coaching/tc-north/</guid>
       <description></description>
     </item>
     

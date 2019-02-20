@@ -7,10 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Fri, 07 Sep 2018 22:30:58 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jan 2019 19:52:06 -0700</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NFL Big Data Bowl 2019</title>
+      <link>/project/bigdatabowl/</link>
+      <pubDate>Tue, 22 Jan 2019 19:52:06 -0700</pubDate>
+      
+      <guid>/project/bigdatabowl/</guid>
+      <description>Event
+Report</description>
+    </item>
+    
+    <item>
+      <title>SFU Business Analytics Hackathon 2018</title>
+      <link>/project/badm_18/</link>
+      <pubDate>Sat, 17 Nov 2018 19:37:12 -0700</pubDate>
+      
+      <guid>/project/badm_18/</guid>
+      <description>Slides
+Event</description>
+    </item>
+    
+    <item>
+      <title>2018 Carnegie Mellon Sports Analytics Conference Poster Competition</title>
+      <link>/project/cmsac/</link>
+      <pubDate>Sat, 20 Oct 2018 23:59:00 +0000</pubDate>
+      
+      <guid>/project/cmsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFU Science Undergraduate Research Journal: Undergraduate Poster Competition</title>
+      <link>/project/surj/</link>
+      <pubDate>Fri, 28 Sep 2018 23:59:00 +0000</pubDate>
+      
+      <guid>/project/surj/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SFU Men&#39;s Basketball</title>
@@ -18,6 +56,15 @@
       <pubDate>Fri, 07 Sep 2018 22:30:58 -0700</pubDate>
       
       <guid>/project/sfu_bball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSM Statistics in Sports: 2018 Undergraduate Research Competition</title>
+      <link>/project/jsm_2018/</link>
+      <pubDate>Tue, 31 Jul 2018 23:59:00 +0000</pubDate>
+      
+      <guid>/project/jsm_2018/</guid>
       <description></description>
     </item>
     
@@ -40,6 +87,15 @@
     </item>
     
     <item>
+      <title>Sacramento Kings Case Competition</title>
+      <link>/project/sac-kings/</link>
+      <pubDate>Mon, 30 Apr 2018 23:59:00 +0000</pubDate>
+      
+      <guid>/project/sac-kings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UBC Men&#39;s Basketball</title>
       <link>/project/ubcbball/</link>
       <pubDate>Mon, 23 Apr 2018 22:30:58 -0700</pubDate>
@@ -58,11 +114,40 @@
     </item>
     
     <item>
+      <title>SFU Business Analytics Hackathon 2017</title>
+      <link>/project/badm/</link>
+      <pubDate>Sat, 18 Nov 2017 19:37:12 -0700</pubDate>
+      
+      <guid>/project/badm/</guid>
+      <description>Slides
+Event
+Video</description>
+    </item>
+    
+    <item>
+      <title>Hockey Analytics Data Sprint</title>
+      <link>/project/hads/</link>
+      <pubDate>Sat, 04 Nov 2017 19:50:39 -0700</pubDate>
+      
+      <guid>/project/hads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Terry Fox Junior Boys Basketball</title>
       <link>/project/terryfox/</link>
       <pubDate>Sat, 23 Sep 2017 22:29:10 -0700</pubDate>
       
       <guid>/project/terryfox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NBA Hackathon 2017</title>
+      <link>/project/nbahack17/</link>
+      <pubDate>Fri, 22 Sep 2017 19:52:06 -0700</pubDate>
+      
+      <guid>/project/nbahack17/</guid>
       <description></description>
     </item>
     
@@ -94,11 +179,29 @@
     </item>
     
     <item>
+      <title>Moj.io Case Competition</title>
+      <link>/project/mojio/</link>
+      <pubDate>Mon, 22 May 2017 19:52:23 -0700</pubDate>
+      
+      <guid>/project/mojio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vancouver Whitecaps FC</title>
       <link>/project/vwfc/</link>
       <pubDate>Thu, 23 Mar 2017 22:29:40 -0700</pubDate>
       
       <guid>/project/vwfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NBA Hackathon 2016</title>
+      <link>/project/nbahack16/</link>
+      <pubDate>Thu, 22 Sep 2016 19:52:10 -0700</pubDate>
+      
+      <guid>/project/nbahack16/</guid>
       <description></description>
     </item>
     

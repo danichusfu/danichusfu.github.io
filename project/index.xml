@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Tue, 22 Jan 2019 19:52:06 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 22:28:50 -0700</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Department of Strategy &amp; Analytics, NBA</title>
+      <link>/project/nba-intern/</link>
+      <pubDate>Mon, 25 Feb 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/nba-intern/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NFL Big Data Bowl 2019</title>
@@ -18,8 +27,7 @@
       <pubDate>Tue, 22 Jan 2019 19:52:06 -0700</pubDate>
       
       <guid>/project/bigdatabowl/</guid>
-      <description>Event
-Report</description>
+      <description></description>
     </item>
     
     <item>
@@ -96,15 +104,6 @@ Event</description>
     </item>
     
     <item>
-      <title>UBC Men&#39;s Basketball</title>
-      <link>/project/ubcbball/</link>
-      <pubDate>Mon, 23 Apr 2018 22:30:58 -0700</pubDate>
-      
-      <guid>/project/ubcbball/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Canadian Sport Institute Pacific</title>
       <link>/project/csip/</link>
       <pubDate>Mon, 23 Apr 2018 22:28:55 -0700</pubDate>
@@ -170,7 +169,7 @@ Video</description>
     </item>
     
     <item>
-      <title>NSERC USRA</title>
+      <title>Natural Sciecences &amp; Engineering Research Council of Canada</title>
       <link>/project/nserc/</link>
       <pubDate>Wed, 23 Aug 2017 22:29:22 -0700</pubDate>
       

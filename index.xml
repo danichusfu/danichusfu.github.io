@@ -11,15 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Department of Strategy &amp; Analytics, NBA</title>
+      <link>/project/nba-intern/</link>
+      <pubDate>Mon, 25 Feb 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/nba-intern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Routes To Success</title>
+      <link>/talk/big-data-bowl/</link>
+      <pubDate>Sat, 26 Jan 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/big-data-bowl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NFL Big Data Bowl 2019</title>
       <link>/project/bigdatabowl/</link>
       <pubDate>Tue, 22 Jan 2019 19:52:06 -0700</pubDate>
       
       <guid>/project/bigdatabowl/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://operations.nfl.com/the-game/big-data-bowl/&#34; target=&#34;_blank&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;../../files/Big_Data_Bowl.pdf&#34;&gt;Report&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -132,24 +147,6 @@
       <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
       
       <guid>/talk/racing-profiles-joint-seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modified Kelly Criteria</title>
-      <link>/talk/modified-kelly-criteria/</link>
-      <pubDate>Tue, 22 May 2018 21:21:56 -0700</pubDate>
-      
-      <guid>/talk/modified-kelly-criteria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dr. Charles Best Secondary School Junior/Senior Boys Basketball</title>
-      <link>/coaching/best/</link>
-      <pubDate>Tue, 22 May 2018 20:22:22 -0700</pubDate>
-      
-      <guid>/coaching/best/</guid>
       <description></description>
     </item>
     

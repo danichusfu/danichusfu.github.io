@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>My Work Experience</title>
+      <link>/talk/coop-spotlight/</link>
+      <pubDate>Mon, 28 Jan 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/coop-spotlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Routes To Success</title>
       <link>/talk/big-data-bowl/</link>
       <pubDate>Sat, 26 Jan 2019 19:00:00 +0000</pubDate>
@@ -138,15 +147,6 @@
       <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
       
       <guid>/talk/racing-profiles-cmsac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pacing Profiles in World Championship 2000m Rowing Explored Through k-Shape Clustering</title>
-      <link>/talk/racing-profiles-joint-seminar/</link>
-      <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
-      
-      <guid>/talk/racing-profiles-joint-seminar/</guid>
       <description></description>
     </item>
     

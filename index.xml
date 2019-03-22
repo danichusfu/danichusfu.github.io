@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The Routes To Success</title>
+      <link>/talk/routes-to-success-sag-sfu/</link>
+      <pubDate>Thu, 21 Mar 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/routes-to-success-sag-sfu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Basketball Strategy &amp; Analytics, NBA</title>
       <link>/project/nba-intern/</link>
       <pubDate>Mon, 25 Feb 2019 22:28:50 -0700</pubDate>
@@ -138,15 +147,6 @@
       <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
       
       <guid>/talk/racing-profiles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pacing Profiles in World Championship 2000m Rowing Explored Through k-Shape Clustering</title>
-      <link>/talk/racing-profiles-cmsac/</link>
-      <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
-      
-      <guid>/talk/racing-profiles-cmsac/</guid>
       <description></description>
     </item>
     

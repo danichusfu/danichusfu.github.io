@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Route Identification in the NFL</title>
+      <link>/talk/ness/</link>
+      <pubDate>Wed, 01 May 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/ness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Routes To Success</title>
@@ -138,15 +147,6 @@
       <pubDate>Tue, 22 May 2018 21:22:20 -0700</pubDate>
       
       <guid>/talk/improving-foul-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pacing Profiles in World Championship 2000m Rowing Explored Through K-Means Clustering</title>
-      <link>/talk/racing-profiles/</link>
-      <pubDate>Tue, 22 May 2018 21:22:07 -0700</pubDate>
-      
-      <guid>/talk/racing-profiles/</guid>
       <description></description>
     </item>
     

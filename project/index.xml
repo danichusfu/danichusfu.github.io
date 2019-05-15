@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Mon, 25 Feb 2019 22:28:50 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 22:28:50 -0700</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chilling With Charlie Episode 18</title>
+      <link>/project/chillin-w-charlie/</link>
+      <pubDate>Mon, 13 May 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/chillin-w-charlie/</guid>
+      <description>Apple Podcast
+Spotify
+Online Link</description>
+    </item>
     
     <item>
       <title>Basketball Strategy &amp; Analytics, NBA</title>

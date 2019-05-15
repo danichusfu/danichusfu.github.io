@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/chillin-w-charlie/</loc>
+      <lastmod>2019-05-13T22:28:50-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/ness/</loc>
       <lastmod>2019-05-01T19:00:00+00:00</lastmod>
     </url>
@@ -392,6 +401,16 @@
     
     <url>
     
+      <loc>/tags/</loc>
+      <lastmod>2019-05-13T22:28:50-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-02-01T12:44:24-07:00</lastmod>
       <priority>0</priority>
@@ -482,7 +501,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2019-02-25T22:28:50-07:00</lastmod>
+      <lastmod>2019-05-13T22:28:50-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -522,7 +541,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-05-22T20:22:22-07:00</lastmod>
+      <lastmod>2019-05-13T22:28:50-07:00</lastmod>
       <priority>0</priority>
     </url>
     

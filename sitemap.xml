@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/sports_on_paper/</loc>
+      <lastmod>2019-08-08T22:28:50-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/nfl-consult/</loc>
       <lastmod>2019-06-22T19:52:06-07:00</lastmod>
     </url>
@@ -410,16 +419,6 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <lastmod>2019-05-13T22:28:50-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-02-01T12:44:24-07:00</lastmod>
       <priority>0</priority>
@@ -499,6 +498,16 @@
     
     <url>
     
+      <loc>/tags/media/</loc>
+      <lastmod>2019-08-08T22:28:50-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/operations/</loc>
       <lastmod>2018-06-22T22:29:02-07:00</lastmod>
       <priority>0</priority>
@@ -510,7 +519,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2019-06-22T19:52:06-07:00</lastmod>
+      <lastmod>2019-08-08T22:28:50-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -550,7 +559,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-05-13T22:28:50-07:00</lastmod>
+      <lastmod>2018-05-22T20:22:22-07:00</lastmod>
       <priority>0</priority>
     </url>
     

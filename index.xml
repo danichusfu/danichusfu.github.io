@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sports on Paper Episode 3</title>
+      <link>/project/sports_on_paper/</link>
+      <pubDate>Thu, 08 Aug 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/sports_on_paper/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://podcasts.apple.com/us/podcast/3-dani-chu-nfl-route-identification/id1469516033?i=1000446470085&#34; target=&#34;_blank&#34;&gt;Apple Podcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/6fwPXSakpt5UDuRdW0MtzP&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>National Football League</title>
       <link>/project/nfl-consult/</link>
       <pubDate>Sat, 22 Jun 2019 19:52:06 -0700</pubDate>
@@ -143,15 +155,6 @@
       <pubDate>Tue, 31 Jul 2018 23:59:00 +0000</pubDate>
       
       <guid>/project/jsm_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pacific Rim Basketball Classic Canada Basketball</title>
-      <link>/project/pacific_rim/</link>
-      <pubDate>Fri, 22 Jun 2018 22:29:02 -0700</pubDate>
-      
-      <guid>/project/pacific_rim/</guid>
       <description></description>
     </item>
     

@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Route Identification in the NFL</title>
+      <link>/publication/route-identification-nfl/</link>
+      <pubDate>Wed, 11 Sep 2019 12:44:24 -0700</pubDate>
+      
+      <guid>/publication/route-identification-nfl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sports on Paper Episode 3</title>
@@ -100,6 +109,15 @@
     </item>
     
     <item>
+      <title>Catch and release? NHL expansion draft endowment effects</title>
+      <link>/publication/catch-and-release/</link>
+      <pubDate>Wed, 16 Jan 2019 12:44:24 -0700</pubDate>
+      
+      <guid>/publication/catch-and-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VanSASH: The First Soccer Analytics Hackathon in North America</title>
       <link>/talk/canssi_launch/</link>
       <pubDate>Mon, 19 Nov 2018 21:22:07 -0700</pubDate>
@@ -137,24 +155,6 @@
       <pubDate>Fri, 28 Sep 2018 23:59:00 +0000</pubDate>
       
       <guid>/project/surj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SFU Men&#39;s Basketball</title>
-      <link>/project/sfu_bball/</link>
-      <pubDate>Fri, 07 Sep 2018 22:30:58 -0700</pubDate>
-      
-      <guid>/project/sfu_bball/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSM Statistics in Sports: 2018 Undergraduate Research Competition</title>
-      <link>/project/jsm_2018/</link>
-      <pubDate>Tue, 31 Jul 2018 23:59:00 +0000</pubDate>
-      
-      <guid>/project/jsm_2018/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Route Identification in the NFL</title>
+      <link>/publication/route-identification-nfl/</link>
+      <pubDate>Wed, 11 Sep 2019 12:44:24 -0700</pubDate>
+      
+      <guid>/publication/route-identification-nfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catch and release? NHL expansion draft endowment effects</title>
+      <link>/publication/catch-and-release/</link>
+      <pubDate>Wed, 16 Jan 2019 12:44:24 -0700</pubDate>
+      
+      <guid>/publication/catch-and-release/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modified Kelly Criteria</title>

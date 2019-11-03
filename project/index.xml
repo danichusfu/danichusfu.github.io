@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Dani Chu</copyright>
-    <lastBuildDate>Thu, 08 Aug 2019 22:28:50 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 19:52:06 -0700</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NHL Seattle</title>
+      <link>/project/nhl-seattle/</link>
+      <pubDate>Sat, 02 Nov 2019 19:52:06 -0700</pubDate>
+      
+      <guid>/project/nhl-seattle/</guid>
+      <description>Press Release Data Driven</description>
+    </item>
+    
+    <item>
+      <title>Measurables Podcast</title>
+      <link>/project/measurables/</link>
+      <pubDate>Fri, 01 Nov 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/measurables/</guid>
+      <description> [Apple Podcast]() [Spotify]() </description>
+    </item>
+    
+    <item>
+      <title>Expected value Podcast</title>
+      <link>/project/expected_value/</link>
+      <pubDate>Wed, 02 Oct 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/expected_value/</guid>
+      <description>Apple Podcast
+Spotify</description>
+    </item>
     
     <item>
       <title>Sports on Paper Episode 3</title>

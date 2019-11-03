@@ -11,6 +11,70 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Running out of time: A hierarchical model for estimating foul trouble in the NBA</title>
+      <link>/talk/cmsac19/</link>
+      <pubDate>Sat, 02 Nov 2019 21:22:20 -0700</pubDate>
+      
+      <guid>/talk/cmsac19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NHL Seattle</title>
+      <link>/project/nhl-seattle/</link>
+      <pubDate>Sat, 02 Nov 2019 19:52:06 -0700</pubDate>
+      
+      <guid>/project/nhl-seattle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nhl.com/news/dani-chu-joins-nhl-seattle-hockey-operations-department/c-310733950?tid=304993632&#34; target=&#34;_blank&#34;&gt;Press Release&lt;/a&gt;
+&lt;a href=&#34;https://www.nhl.com/news/data-driven/c-310839850?tid=304993632&#34; target=&#34;_blank&#34;&gt;Data Driven&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Putting the Fun in Functional Data: A tidy pipeline to identify routes in NFL tracking data</title>
+      <link>/talk/rstduio-conf/</link>
+      <pubDate>Sat, 02 Nov 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/rstduio-conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurables Podcast</title>
+      <link>/project/measurables/</link>
+      <pubDate>Fri, 01 Nov 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/measurables/</guid>
+      <description>
+
+&lt;h1 id=&#34;apple-podcast&#34;&gt;[Apple Podcast]()&lt;/h1&gt;
+
+&lt;h1 id=&#34;spotify&#34;&gt;[Spotify]()&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expected value Podcast</title>
+      <link>/project/expected_value/</link>
+      <pubDate>Wed, 02 Oct 2019 22:28:50 -0700</pubDate>
+      
+      <guid>/project/expected_value/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://bit.ly/ExpValueApple&#34; target=&#34;_blank&#34;&gt;Apple Podcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bit.ly/EVpodspotify&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Route Identification in the NFL</title>
+      <link>/talk/nessis19/</link>
+      <pubDate>Sat, 28 Sep 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/nessis19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Route Identification in the NFL</title>
       <link>/publication/route-identification-nfl/</link>
       <pubDate>Wed, 11 Sep 2019 12:44:24 -0700</pubDate>
@@ -96,65 +160,6 @@
       <pubDate>Sat, 26 Jan 2019 19:00:00 +0000</pubDate>
       
       <guid>/talk/big-data-bowl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NFL Big Data Bowl 2019</title>
-      <link>/project/bigdatabowl/</link>
-      <pubDate>Tue, 22 Jan 2019 19:52:06 -0700</pubDate>
-      
-      <guid>/project/bigdatabowl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catch and release? NHL expansion draft endowment effects</title>
-      <link>/publication/catch-and-release/</link>
-      <pubDate>Wed, 16 Jan 2019 12:44:24 -0700</pubDate>
-      
-      <guid>/publication/catch-and-release/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VanSASH: The First Soccer Analytics Hackathon in North America</title>
-      <link>/talk/canssi_launch/</link>
-      <pubDate>Mon, 19 Nov 2018 21:22:07 -0700</pubDate>
-      
-      <guid>/talk/canssi_launch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SFU Business Analytics Hackathon 2018</title>
-      <link>/project/badm_18/</link>
-      <pubDate>Sat, 17 Nov 2018 19:37:12 -0700</pubDate>
-      
-      <guid>/project/badm_18/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;../../files/BADM.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://beediehackathon.bus.sfu.ca/&#34; target=&#34;_blank&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--- [Video](http://beedie.sfu.ca/badm/students) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2018 Carnegie Mellon Sports Analytics Conference Poster Competition</title>
-      <link>/project/cmsac/</link>
-      <pubDate>Sat, 20 Oct 2018 23:59:00 +0000</pubDate>
-      
-      <guid>/project/cmsac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SFU Science Undergraduate Research Journal: Undergraduate Poster Competition</title>
-      <link>/project/surj/</link>
-      <pubDate>Fri, 28 Sep 2018 23:59:00 +0000</pubDate>
-      
-      <guid>/project/surj/</guid>
       <description></description>
     </item>
     

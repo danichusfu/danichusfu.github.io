@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Foul Accumulation in the NBA</title>
+      <link>/publication/masters-thesis/</link>
+      <pubDate>Mon, 20 Jan 2020 12:44:24 -0700</pubDate>
+      
+      <guid>/publication/masters-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Running out of time: A hierarchical model for estimating foul trouble in the NBA</title>
       <link>/talk/cmsac19/</link>
       <pubDate>Sat, 02 Nov 2019 21:22:20 -0700</pubDate>
@@ -28,6 +37,15 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://www.nhl.com/news/dani-chu-joins-nhl-seattle-hockey-operations-department/c-310733950?tid=304993632&#34; target=&#34;_blank&#34;&gt;Press Release&lt;/a&gt;
 &lt;a href=&#34;https://www.nhl.com/news/data-driven/c-310839850?tid=304993632&#34; target=&#34;_blank&#34;&gt;Data Driven&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Foul Accumulation in the NBA</title>
+      <link>/talk/masters-defence/</link>
+      <pubDate>Sat, 02 Nov 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/masters-defence/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -142,24 +160,6 @@
       <pubDate>Mon, 25 Feb 2019 22:28:50 -0700</pubDate>
       
       <guid>/project/nba-intern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Work Experience</title>
-      <link>/talk/coop-spotlight/</link>
-      <pubDate>Mon, 28 Jan 2019 19:00:00 +0000</pubDate>
-      
-      <guid>/talk/coop-spotlight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Routes To Success</title>
-      <link>/talk/big-data-bowl/</link>
-      <pubDate>Sat, 26 Jan 2019 19:00:00 +0000</pubDate>
-      
-      <guid>/talk/big-data-bowl/</guid>
       <description></description>
     </item>
     

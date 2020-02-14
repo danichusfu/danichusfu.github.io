@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Building a University Student Sports Analytics Club</title>
+      <link>/talk/ubcsa/</link>
+      <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/ubcsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Coach to Analyst</title>
+      <link>/talk/osu/</link>
+      <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/osu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Foul Accumulation in the NBA</title>
       <link>/publication/masters-thesis/</link>
       <pubDate>Mon, 20 Jan 2020 12:44:24 -0700</pubDate>
@@ -142,24 +160,6 @@
       <pubDate>Wed, 01 May 2019 19:00:00 +0000</pubDate>
       
       <guid>/talk/ness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Routes To Success</title>
-      <link>/talk/routes-to-success-sag-sfu/</link>
-      <pubDate>Thu, 21 Mar 2019 19:00:00 +0000</pubDate>
-      
-      <guid>/talk/routes-to-success-sag-sfu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basketball Strategy &amp; Analytics, NBA</title>
-      <link>/project/nba-intern/</link>
-      <pubDate>Mon, 25 Feb 2019 22:28:50 -0700</pubDate>
-      
-      <guid>/project/nba-intern/</guid>
       <description></description>
     </item>
     

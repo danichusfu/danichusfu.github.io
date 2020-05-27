@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What is Sports Analytics</title>
+      <link>/talk/cent/</link>
+      <pubDate>Wed, 27 May 2020 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/cent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Building a University Student Sports Analytics Club</title>
       <link>/talk/ubcsa/</link>
       <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
@@ -152,15 +161,6 @@
 
 &lt;p&gt;&lt;a href=&#34;https://player.whooshkaa.com/episode/370728&#34; target=&#34;_blank&#34;&gt;Online Link&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Route Identification in the NFL</title>
-      <link>/talk/ness/</link>
-      <pubDate>Wed, 01 May 2019 19:00:00 +0000</pubDate>
-      
-      <guid>/talk/ness/</guid>
-      <description></description>
     </item>
     
   </channel>

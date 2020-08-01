@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>It&#39;s Fun Getting into (Foul) Trouble</title>
+      <link>/talk/googlesloan20/</link>
+      <pubDate>Thu, 05 Mar 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/googlesloan20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Building a University Student Sports Analytics Club</title>
       <link>/talk/ubcsa/</link>
       <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
@@ -34,6 +43,15 @@
       <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
       
       <guid>/talk/osu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Internship Experience</title>
+      <link>/talk/coop-spotlight20/</link>
+      <pubDate>Tue, 28 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/coop-spotlight20/</guid>
       <description></description>
     </item>
     
@@ -56,7 +74,7 @@
     </item>
     
     <item>
-      <title>NHL Seattle</title>
+      <title>Seattle Kraken</title>
       <link>/project/nhl-seattle/</link>
       <pubDate>Sat, 02 Nov 2019 19:52:06 -0700</pubDate>
       
@@ -81,6 +99,15 @@
       <pubDate>Sat, 02 Nov 2019 19:00:00 +0000</pubDate>
       
       <guid>/talk/rstduio-conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting the Fun in Functional Data: A tidy pipeline to identify routes in NFL tracking data</title>
+      <link>/talk/seattleuser/</link>
+      <pubDate>Sat, 02 Nov 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/seattleuser/</guid>
       <description></description>
     </item>
     
@@ -126,41 +153,6 @@
       
       <guid>/publication/route-identification-nfl/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Sports on Paper Episode 3</title>
-      <link>/project/sports_on_paper/</link>
-      <pubDate>Thu, 08 Aug 2019 22:28:50 -0700</pubDate>
-      
-      <guid>/project/sports_on_paper/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://podcasts.apple.com/us/podcast/3-dani-chu-nfl-route-identification/id1469516033?i=1000446470085&#34; target=&#34;_blank&#34;&gt;Apple Podcast&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/6fwPXSakpt5UDuRdW0MtzP&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>National Football League</title>
-      <link>/project/nfl-consult/</link>
-      <pubDate>Sat, 22 Jun 2019 19:52:06 -0700</pubDate>
-      
-      <guid>/project/nfl-consult/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chilling With Charlie Episode 18</title>
-      <link>/project/chillin-w-charlie/</link>
-      <pubDate>Mon, 13 May 2019 22:28:50 -0700</pubDate>
-      
-      <guid>/project/chillin-w-charlie/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://podcasts.apple.com/us/podcast/chilling-with-charlie/id1455613899?i=1000437942530&#34; target=&#34;_blank&#34;&gt;Apple Podcast&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/episode/0lwYurF7Ql28fKtlNELo9D?si=n7qMhDn0Sx6-Uslv5DhVZg&#34; target=&#34;_blank&#34;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://player.whooshkaa.com/episode/370728&#34; target=&#34;_blank&#34;&gt;Online Link&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

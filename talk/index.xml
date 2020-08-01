@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>It&#39;s Fun Getting into (Foul) Trouble</title>
+      <link>/talk/googlesloan20/</link>
+      <pubDate>Thu, 05 Mar 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/googlesloan20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Building a University Student Sports Analytics Club</title>
       <link>/talk/ubcsa/</link>
       <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
@@ -36,6 +45,15 @@
       <pubDate>Wed, 12 Feb 2020 19:00:00 +0000</pubDate>
       
       <guid>/talk/osu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Internship Experience</title>
+      <link>/talk/coop-spotlight20/</link>
+      <pubDate>Tue, 28 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/coop-spotlight20/</guid>
       <description></description>
     </item>
     
@@ -63,6 +81,15 @@
       <pubDate>Sat, 02 Nov 2019 19:00:00 +0000</pubDate>
       
       <guid>/talk/rstduio-conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting the Fun in Functional Data: A tidy pipeline to identify routes in NFL tracking data</title>
+      <link>/talk/seattleuser/</link>
+      <pubDate>Sat, 02 Nov 2019 19:00:00 +0000</pubDate>
+      
+      <guid>/talk/seattleuser/</guid>
       <description></description>
     </item>
     
